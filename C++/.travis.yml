@@ -1,1 +1,10 @@
-language: c
+language: cpp
+
+os: windows
+
+compiler:
+  - clang
+  - gcc
+  
+git:
+  submodules: True
