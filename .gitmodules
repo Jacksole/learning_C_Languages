@@ -1,0 +1,3 @@
+[submodule "C-Plus-Plus"]
+	path = C-Plus-Plus
+	url = https://github.com/TheAlgorithms/C-Plus-Plus.git
